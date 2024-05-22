@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\strategypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:strategypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\iarquivostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:iarquivostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\jpegstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:jpegstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\pngstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:pngstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\gifstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:gifstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|c:\\users\\bruno\\source\\repos\\strategypattern\\downloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D215E615-7EE6-43B9-8590-B567928FA2F2}|StrategyPattern.csproj|solutionrelative:downloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:44:38.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DownloadContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\DownloadContext.cs",
+              "RelativeDocumentMoniker": "DownloadContext.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\DownloadContext.cs",
+              "RelativeToolTip": "DownloadContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:00:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GifStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\GifStrategy.cs",
+              "RelativeDocumentMoniker": "GifStrategy.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\GifStrategy.cs",
+              "RelativeToolTip": "GifStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:55:58.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PngStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\PngStrategy.cs",
+              "RelativeDocumentMoniker": "PngStrategy.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\PngStrategy.cs",
+              "RelativeToolTip": "PngStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:55:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JpegStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\JpegStrategy.cs",
+              "RelativeDocumentMoniker": "JpegStrategy.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\JpegStrategy.cs",
+              "RelativeToolTip": "JpegStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:55:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArquivoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\IArquivoStrategy.cs",
+              "RelativeDocumentMoniker": "IArquivoStrategy.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\IArquivoStrategy.cs",
+              "RelativeToolTip": "IArquivoStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:45:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrategyPattern",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\StrategyPattern.csproj",
+              "RelativeDocumentMoniker": "StrategyPattern.csproj",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\StrategyPattern\\StrategyPattern.csproj",
+              "RelativeToolTip": "StrategyPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T22:45:16.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
